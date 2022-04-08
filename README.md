@@ -1,6 +1,7 @@
 
 # Minesweeper - Félix LIBURSKI & Hugo Pereira (novembre - decembre 2021)
-<s>Voici mon premier projet de programmation et mon premier projet en C. J'ai commencé à apprendre ce langage en septembre 2021 et je l'ai finalisé fin octobre de la même année. Ce premier projet m'a beaucoup aidé à m'améliorer en programmation et en algorithmie. Le code n'est pas du tout décomposé en différentes fonctions et dans différents fichiers <strong>.c</strong> et <strong>.h</strong> mais en tant que premier projet en C je suis satisfait.</s>
+<div align="justify">Voici mon second projet de programmation mais mon premier en C++. C'est aussi le premier projet de programmation réalisé en groupe qui m'a permis d'apprendre à développer en équipe donc en se répartissant les différentes tâches. Ce projet était d'une certaine compléxitée au niveau de l'algorithmie mais était aussi l'occasion de corriger les erreurs du projet précédent en séparant cette fois-ci le code en plusieurs fonctions sur plusieurs fichiers. Nous sommes très satisfaits du résultat puisque nous avons réussi à passer tous les tests.</div>
+
 ## <center>Table of Contents </center>
 
 * [Description du projet](#chapter1)
