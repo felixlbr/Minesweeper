@@ -1,4 +1,3 @@
-
 # Minesweeper - Félix LIBURSKI & Hugo Pereira (novembre - decembre 2021)
 <div align="justify">Voici mon second projet de programmation mais mon premier en C++. C'est aussi le premier projet de programmation réalisé en groupe qui m'a permis d'apprendre à développer en équipe donc en se répartissant les différentes tâches. Ce projet était d'une certaine compléxitée au niveau de l'algorithmie mais était aussi l'occasion de corriger les erreurs du projet précédent en séparant cette fois-ci le code en plusieurs fonctions sur plusieurs fichiers. Nous sommes très satisfaits du résultat puisque nous avons réussi à passer tous les tests.</div>
 
